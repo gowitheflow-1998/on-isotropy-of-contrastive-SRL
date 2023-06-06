@@ -1,0 +1,36 @@
+analysis output for sentence-transformers/all-MiniLM-L6-v2
+unadjusted self_sim of layer 0: 0.9550198237885461
+unadjusted self_sim of layer 1: 0.903136563876652
+unadjusted self_sim of layer 2: 0.839909691629956
+unadjusted self_sim of layer 3: 0.7988105726872248
+unadjusted self_sim of layer 4: 0.7935132158590308
+unadjusted self_sim of layer 5: 0.8115176211453744
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+unadjusted self_sim of layer 6: 0.6442709251101321
+anisotropy estimate 0: 0.067
+anisotropy estimate 1: 0.131
+anisotropy estimate 2: 0.164
+anisotropy estimate 3: 0.165
+anisotropy estimate 4: 0.168
+anisotropy estimate 5: 0.208
+anisotropy estimate 6: 0.012
+adjusted self_sim of layer 0: 0.8880198237885462
+adjusted self_sim of layer 1: 0.772136563876652
+adjusted self_sim of layer 2: 0.675909691629956
+adjusted self_sim of layer 3: 0.6338105726872247
+adjusted self_sim of layer 4: 0.6255132158590307
+adjusted self_sim of layer 5: 0.6035176211453744
+adjusted self_sim of layer 6: 0.632270925110132
+adjusted intra_sim of layer 0: 0.2981348650455475
+adjusted intra_sim of layer 1: 0.332085800409317
+adjusted intra_sim of layer 2: 0.3454491839408874
+adjusted intra_sim of layer 3: 0.3962680315971374
+adjusted intra_sim of layer 4: 0.41152958345413204
+adjusted intra_sim of layer 5: 0.37206811141967777
+adjusted intra_sim of layer 6: 0.6513656024932861
