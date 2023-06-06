@@ -17,8 +17,8 @@ Run with customized arguments. For instance, run analysis on all-minilm-l6-v2, s
 
 4. In `fun_example.ipynb` you can see some intuitive and fun examples of our paper's findings:
 
-"NLP" in "NLP is about" and "is" in "NLP" is about are similar             (high intra-sentence similarity)  
-"NLP" in "NLP is about" and "NLP" in "What is NLP?" are similar            (high self-similarity for semantic tokens)  
-"is" in "NLP is good" and "is" in "The album is fire" are not even close   (low self-similarity for function tokens)  
+<span style="color:blue;">"NLP"</span> in "NLP is about" and <span style="color:green;">"is"</span> in "NLP is about" are similar             (high intra-sentence similarity)  
+<span style="color:blue;">"NLP"</span> in "NLP is about" and <span style="color:blue;">"NLP"</span> in "What is NLP?" are similar            (high self-similarity for semantic tokens)  
+<span style="color:green;">"is"</span> in "NLP is good" and <span style="color:green;">"is"</span> in "The album is fire" are not even close   (low self-similarity for function tokens)  
 
 4. We're updating `train.py` to facilitate ablation analysis.
