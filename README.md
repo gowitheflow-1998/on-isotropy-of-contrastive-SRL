@@ -19,5 +19,3 @@ Run with customized arguments. For instance, run analysis on all-minilm-l6-v2, s
 "NLP" in "NLP is about" and "is" in "NLP is about" are similar **(high intra-sentence similarity)**  
 "NLP" in "NLP is about" and "NLP" in "What is NLP?" are similar **(high self-similarity for semantic tokens)**  
 "is" in "NLP is good" and "is" in "The album is fire" are not even close  **(low self-similarity for function tokens)**  
-
-4. We're updating `train.py` to facilitate ablation analysis.
